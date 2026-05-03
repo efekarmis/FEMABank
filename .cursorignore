@@ -1,0 +1,25 @@
+# Build outputs
+**/bin/
+**/obj/
+**/dist/
+**/build/
+
+# Logs
+logs/
+*.log
+
+# Test results
+TestResults/
+coverage/
+
+# IDE
+.vs/
+.vscode/
+
+# Secrets (asla AI'a gitmesin)
+**/appsettings.Development.json
+**/appsettings.Local.json
+.env*
+
+# Migrations (büyük olabilir, gerektiğinde manuel attach et)
+**/Migrations/
