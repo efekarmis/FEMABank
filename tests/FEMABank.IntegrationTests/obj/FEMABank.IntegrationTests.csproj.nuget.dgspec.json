@@ -1,0 +1,391 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\atabe\\Projects\\FEMABank\\tests\\FEMABank.IntegrationTests\\FEMABank.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Api\\FEMABank.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Api\\FEMABank.Api.csproj",
+        "projectName": "FEMABank.Api",
+        "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Api\\FEMABank.Api.csproj",
+        "packagesPath": "C:\\Users\\atabe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Application\\FEMABank.Application.csproj": {
+                "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Application\\FEMABank.Application.csproj"
+              },
+              "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Infrastructure\\FEMABank.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Infrastructure\\FEMABank.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Application\\FEMABank.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Application\\FEMABank.Application.csproj",
+        "projectName": "FEMABank.Application",
+        "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Application\\FEMABank.Application.csproj",
+        "packagesPath": "C:\\Users\\atabe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Domain\\FEMABank.Domain.csproj": {
+                "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Domain\\FEMABank.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Domain\\FEMABank.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Domain\\FEMABank.Domain.csproj",
+        "projectName": "FEMABank.Domain",
+        "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Domain\\FEMABank.Domain.csproj",
+        "packagesPath": "C:\\Users\\atabe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Infrastructure\\FEMABank.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Infrastructure\\FEMABank.Infrastructure.csproj",
+        "projectName": "FEMABank.Infrastructure",
+        "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Infrastructure\\FEMABank.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\atabe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Application\\FEMABank.Application.csproj": {
+                "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Application\\FEMABank.Application.csproj"
+              },
+              "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Domain\\FEMABank.Domain.csproj": {
+                "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Domain\\FEMABank.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\atabe\\Projects\\FEMABank\\tests\\FEMABank.IntegrationTests\\FEMABank.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atabe\\Projects\\FEMABank\\tests\\FEMABank.IntegrationTests\\FEMABank.IntegrationTests.csproj",
+        "projectName": "FEMABank.IntegrationTests",
+        "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\tests\\FEMABank.IntegrationTests\\FEMABank.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\atabe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atabe\\Projects\\FEMABank\\tests\\FEMABank.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\atabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Api\\FEMABank.Api.csproj": {
+                "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Api\\FEMABank.Api.csproj"
+              },
+              "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Application\\FEMABank.Application.csproj": {
+                "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Application\\FEMABank.Application.csproj"
+              },
+              "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Domain\\FEMABank.Domain.csproj": {
+                "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Domain\\FEMABank.Domain.csproj"
+              },
+              "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Infrastructure\\FEMABank.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\atabe\\Projects\\FEMABank\\src\\FEMABank.Infrastructure\\FEMABank.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

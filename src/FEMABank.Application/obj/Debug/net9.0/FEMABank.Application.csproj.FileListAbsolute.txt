@@ -1,0 +1,16 @@
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\bin\Debug\net9.0\FEMABank.Application.deps.json
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\bin\Debug\net9.0\FEMABank.Application.dll
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\bin\Debug\net9.0\FEMABank.Application.pdb
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\bin\Debug\net9.0\FEMABank.Domain.dll
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\bin\Debug\net9.0\FEMABank.Domain.pdb
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\FEMABank.Application.csproj.AssemblyReference.cache
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\FEMABank.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\FEMABank.Application.AssemblyInfoInputs.cache
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\FEMABank.Application.AssemblyInfo.cs
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\FEMABank.Application.csproj.CoreCompileInputs.cache
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\FEMABank.Application.sourcelink.json
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\FEMABank.EBC9DB5E.Up2Date
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\FEMABank.Application.dll
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\refint\FEMABank.Application.dll
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\FEMABank.Application.pdb
+C:\Users\atabe\Projects\FEMABank\src\FEMABank.Application\obj\Debug\net9.0\ref\FEMABank.Application.dll
